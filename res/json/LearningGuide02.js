@@ -1,1 +1,1 @@
-conf = '[{"name":"Mode2Page","description":"Mode 2 page","mode":"1","url":"http://"}]';
+conf = '[{"name":"Mode2Page","description":"Mode 2 page","mode":"1","url":"http://"},{"name":"Mode2","description":"Mode 2 ","mode":"2","url":"http://"}]';
