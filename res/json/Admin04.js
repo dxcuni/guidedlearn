@@ -1,0 +1,1 @@
+conf = '[{"name":"Mode1Icon","description":"Mode 1 icon test","mode":"1","url":"http://"},{"name":"Mode2Icon","description":"Mode 2  icon test","mode":"2","url":"http://"},{"name":"Mode3Icon","description":"Mode 3  icon test","mode":"3","url":"https://my.dxc.com//"}]';
